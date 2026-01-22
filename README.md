@@ -1,1 +1,1 @@
-
+A gamified web platform promoting water conservation through smart meter integration, rewarding users with points and badges for sustainable consumption. Features real-time analytics, community leaderboards, and educational tips to drive behavioral change.
